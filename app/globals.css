@@ -4,7 +4,7 @@
 
 /* base styles */
 body {
-  background: #ebf0fa;
+  background: #030a19;
   @apply text-gray-500 m-8;
 }
 h1,
@@ -75,7 +75,7 @@ form textarea,
 form select {
   @apply block 
     mt-2 my-4 px-2 py-1 
-    rounded-sm w-full;
+    rounded-sm w-full bg-slate-900;
 }
 form button {
   @apply block mx-auto;
@@ -96,7 +96,7 @@ form button {
 
 /* card styles */
 .card {
-  @apply bg-white 
+  @apply bg-slate-900
     shadow-sm 
     rounded-md 
     py-3 px-4 my-4 

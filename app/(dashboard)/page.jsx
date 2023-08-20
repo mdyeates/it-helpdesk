@@ -5,10 +5,8 @@ export default function Home() {
     <main>
       <h2>Dashboard</h2>
       <p>
-        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vero repellendus tempore, exercitationem odit, quasi
-        doloremque possimus recusandae alias sequi totam soluta natus iure eius, obcaecati sint dolores blanditiis
-        aspernatur quo officia iusto ut. Et, aliquid sed voluptates iste cum totam, facere explicabo, fugit suscipit
-        ratione aspernatur consequuntur ex mollitia quaerat?
+        Welcome to your dashboard. Here you can manage and monitor all your support tickets and customer inquiries. Stay
+        organized and provide excellent customer service using the tools and features available.
       </p>
 
       <div className="flex justify-center my-8">
@@ -22,17 +20,16 @@ export default function Home() {
       <div className="card">
         <h3>New member of the web dev team...</h3>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt, at quam. Dolores omnis possimus quam soluta
-          rerum illo laborum ullam pariatur molestiae, modi beatae corrupti.
+          We&apos;re excited to introduce our newest team member, Jane Smith, who has joined our web development team.
+          Jane brings a wealth of experience and creativity to our projects. Let&apos;s give her a warm welcome!
         </p>
       </div>
       <div className="card">
         <h3>New website live!</h3>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt, at quam. Dolores omnis possimus quam soluta
-          rerum illo laborum ullam pariatur molestiae, modi beatae corrupti, assumenda distinctio adipisci, cupiditate
-          minima eum vitae? Similique dicta est facilis debitis, autem temporibus quo repellat illum unde id iste
-          veritatis eveniet, aspernatur enim quas.
+          We&apos;re thrilled to announce the launch of our new website! After months of hard work and dedication,
+          we&apos;ve revamped our online presence to provide a better user experience. Explore our new features,
+          services, and design.
         </p>
       </div>
     </main>
